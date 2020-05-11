@@ -2,7 +2,7 @@
 
 **I made this *Tutorial Project* for understanding React.js basics.**
 
-#OpenWeatherMap
+# OpenWeatherMap
 
 I fetch data with **axios** from **OpenWeatherMap's API**.
 
