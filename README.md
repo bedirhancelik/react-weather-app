@@ -1,6 +1,6 @@
 ## Weather Forecast
 
-**I made this *Tutorial Project* for understanding React.js basics.**
+I made this *Tutorial Project* for understanding React.js basics.
 
 ### OpenWeatherMap
 
